@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2lab</string>
+    <string name="chars_selection">Chars</string>
+    <string name="words_selection">Words</string>
+    <string-array name="options_array">
+        <item>Chars</item>
+        <item>Words</item>
+    </string-array>
+</resources>
