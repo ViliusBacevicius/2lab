@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         } else {
             if ((selectedOption.equalsIgnoreCase(getResources().getString(R.string.words_selection)))){
 
-                this.tvResult.setText(WordCounter.countWords((userInput)));
+                this.tvResult.setText(WordCounter.getWordsCount(userInput));
             }
 
 
